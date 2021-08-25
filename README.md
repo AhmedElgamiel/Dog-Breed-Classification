@@ -10,13 +10,13 @@ The goal of this project is to create a dog breed identification application usi
 
 The overall flow consists of the following steps:
 
-1- Import Datasets
-2- Detect a human
-3- Detect a dog
-4- Create a CNN to Classify Dog Breeds (from Scratch)
-5- Create a CNN to Classify Dog Breeds (using Transfer Learning)
-6- Write your Algorithm
-7- Test Your Algorithm
+1. Import Datasets
+2. Detect a human
+3. Detect a dog
+4. Create a CNN to Classify Dog Breeds (from Scratch)
+5. Create a CNN to Classify Dog Breeds (using Transfer Learning)
+6. Write your Algorithm
+7. Test Your Algorithm
 
 ## Software Stack
 

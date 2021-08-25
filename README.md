@@ -27,3 +27,4 @@ This project uses the following software and Python libraries:
 - [Pandas]
 - [scikit-learn]
 - [matplotlib]
+- [keras]
